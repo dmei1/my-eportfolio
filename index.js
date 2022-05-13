@@ -1,6 +1,3 @@
-// template_6olc26w
-// service_w8cqxsj
-// eY_Sc7FxqZNZWY0wa
 let isModalOpen = false;
 let contrastToggle = false;
 const scaleFactor = 1 / 20;
